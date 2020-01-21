@@ -24,3 +24,13 @@
   color: white;
   font-size: 5vw;
 }
+
+.box {
+  position: absolute;
+  bottom: 10%;
+  right: 30%;
+  background-color: red;
+  border: 4px dotted green;
+  width: 12vw;
+  height: 12vw;
+}
